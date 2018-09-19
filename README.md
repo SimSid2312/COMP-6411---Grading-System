@@ -10,3 +10,5 @@ It present a menu to user select various options -
 4. Sort by alternate column
 5. Change Pass/Fail point
 6. Exit
+
+Note - To run the application execute grade.py file.
